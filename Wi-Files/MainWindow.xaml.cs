@@ -25,9 +25,5 @@ namespace Wi_Files
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("WPF на METANIT.COM");
-        }
     }
 }

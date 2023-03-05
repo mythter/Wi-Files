@@ -5,11 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Wi_Files"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="760" Width="1160">
 
     <Grid HorizontalAlignment="Left" Width="800">
-        <Button Content="Click" FontSize="13"
-                Click="Button_Click" Width="80" Height="30" FontFamily="Broadway"/>
+
     </Grid>
 
 </Window>
